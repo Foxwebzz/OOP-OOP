@@ -26,3 +26,15 @@ JSX is extention of JS
 u JSX mozemo da vratimo samo jedan HTML element 
 
 ReactDOM.render(<Header /, document.querySelector("#App")>)
+
+componenta unutar React je function componenta
+
+Class Component je container component 
+
+NPM MOZEMO DA DOWNLOAD MODULE FOR JS
+NPX JE NACIN DA POKRENEMO EXECUTUBLE MODULE
+npx create-react-app myapp (samo mala slova)
+
+
+RAZLIKA IZMEDJU FUNCTION COMPONENT AND CLASS COMPONENT
+
