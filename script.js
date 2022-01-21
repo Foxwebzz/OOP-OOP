@@ -1,11 +1,5 @@
-class Student {
-    constructor(name, brIndeksa, gender, location) {
-        this.name = name
-        this.brIndeksa = brIndeksa
-        this.gender = gender
-        this.location = location
-    }
-}
+import config from "./configStudent"
+
 let studentNikola = new Student("Nikola", "001", "Male", "GM")
 // console.log(studentNikola);
 
@@ -42,4 +36,4 @@ class Sasa extends Student {
     }
 }
 let newSassa = new Sasa("Sasa", "003", "Male", "GM", "Develop", "Busy")
-console.log(newSassa);
+console.log(newSassa);  
