@@ -18,3 +18,11 @@ const myFunck = () => {}
 for loop
 forEach
 forof
+
+componente u React su obicne function
+posle return moze da ide samo JS data type 
+JSX je funny tag syntax i sneithre a strig not HTML 
+JSX is extention of JS 
+u JSX mozemo da vratimo samo jedan HTML element 
+
+ReactDOM.render(<Header /, document.querySelector("#App")>)
