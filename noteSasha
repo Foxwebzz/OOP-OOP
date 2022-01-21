@@ -35,6 +35,9 @@ NPM MOZEMO DA DOWNLOAD MODULE FOR JS
 NPX JE NACIN DA POKRENEMO EXECUTUBLE MODULE
 npx create-react-app myapp (samo mala slova)
 
+sta znaci React.Component
+odakle Component dolazi
+
 
 RAZLIKA IZMEDJU FUNCTION COMPONENT AND CLASS COMPONENT
 
