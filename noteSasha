@@ -1,0 +1,20 @@
+statament
+function info (){}
+
+expresion 
+let funk = function (){
+}
+
+methods
+
+const person = {
+    myInfo: function(){}
+}
+
+arrow function
+
+const myFunck = () => {}
+
+for loop
+forEach
+forof
