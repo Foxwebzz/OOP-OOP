@@ -34,10 +34,15 @@ Class Component je container component
 NPM MOZEMO DA DOWNLOAD MODULE FOR JS
 NPX JE NACIN DA POKRENEMO EXECUTUBLE MODULE
 npx create-react-app myapp (samo mala slova)
+rfce shortcut 
 
 sta znaci React.Component
 odakle Component dolazi
 
 
-RAZLIKA IZMEDJU FUNCTION COMPONENT AND CLASS COMPONENT
+RAZLIKA IZMEDJU FUNCTION COMPONENT AND CLASS COMPONENT???
+class componenta ima state 
+kad god react vidi da se propretio pormenio on ce renderovati return
+react dev tools 
+https://www.telerik.com/blogs/react-class-component-vs-functional-component-how-choose-whats-difference?kw=&cpn=15387578594&&utm_source=google&utm_medium=cpc&utm_campaign=kendo-ui-react-trial-search-bms-NA&ad_group=DSA+Ad+Group&utm_term=DYNAMIC+SEARCH+ADS&ad_copy=&ad_type=DSA&ad_size=&ad_placement=&gclid=CjwKCAiA0KmPBhBqEiwAJqKK47BoREqEoofiaHsQ9XGhpXn0lihlOd21Te4vigAWaHL_xmrmcfNd9BoC73cQAvD_BwE&gclsrc=aw.ds 
 
