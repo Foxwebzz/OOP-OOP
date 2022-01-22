@@ -39,6 +39,12 @@ rfce shortcut
 sta znaci React.Component
 odakle Component dolazi
 
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+    }
+ }
+
 
 RAZLIKA IZMEDJU FUNCTION COMPONENT AND CLASS COMPONENT???
 class componenta ima state 
