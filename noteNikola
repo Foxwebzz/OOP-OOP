@@ -1,0 +1,18 @@
+let app = {
+    state = {
+        name : "Nikola"
+    }
+}
+this.state.name
+
+JE ISTO KAO I OVO
+
+let app = {
+    name : "Nikola"
+}
+{app.nikola}
+
+
+
+
+Nikola this se zove ako trebas da pozoves nesto u objektu. A ako je van objekta mozes kako oš
