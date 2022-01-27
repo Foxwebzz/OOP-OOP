@@ -9,5 +9,4 @@ class Student {
 
 let studentNikola = new Student("Nikola", "001", "Male", "GM")
 
-
 export default Student;
